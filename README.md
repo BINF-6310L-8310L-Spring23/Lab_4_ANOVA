@@ -9,9 +9,10 @@ if (!require("BiocManager", quietly = TRUE))
     install.packages("BiocManager")
 
 BiocManager::install("multtest")
+BiocManager::install("ALL")
 
-library(multtest)
-data(golub)
+library(ALL)
+data(ALL)
 ```
 Now the data will be stored in a matrix called golub
 
