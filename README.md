@@ -5,6 +5,11 @@ To practice using ANOVA we will do the exercises in the Krijnen Introduction to 
 This uses the Golub 199 gene expression data. To do this you will need to load the data. 
 
 ```
+if (!require("BiocManager", quietly = TRUE))
+    install.packages("BiocManager")
+
+BiocManager::install("multtest")
+
 library(multtest)
 data(golub)
 ```
