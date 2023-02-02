@@ -1,4 +1,4 @@
-# Lab_3_ANOVA
+# Lab_4_ANOVA
 
 To practice using ANOVA we will do the exercises in the Krijnen Introduction to Biostats 
 
