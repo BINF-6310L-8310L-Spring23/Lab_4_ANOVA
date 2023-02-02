@@ -14,7 +14,7 @@ BiocManager::install("ALL")
 library(ALL)
 data(ALL)
 ```
-Now the data will be stored in a matrix called golub
+Now the data will be stored in a matrix called ALL
 
 Now we do Exercies 1 and 2 from section 5.7
 
