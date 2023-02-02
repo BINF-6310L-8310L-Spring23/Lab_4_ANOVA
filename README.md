@@ -36,4 +36,4 @@ Now we do Exercies 1 and 2 from section 5.7
 
 (d) Use featureNames() to report the afymetrix id's of the genes with smaller p-values than 0.000001.
 
-(e) Briefly comment on the di®erences you observe. That is, how many genes have p-values smaller than 0.001 from both ANOVA and Krusal-Wallis? How many only from one type of test? Hint: Collect TRUE/FALSES in logical vectors and use table.
+(e) Briefly comment on the differences you observe. That is, how many genes have p-values smaller than 0.001 from both ANOVA and Krusal-Wallis? How many only from one type of test? Hint: Collect TRUE/FALSES in logical vectors and use table.
